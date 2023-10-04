@@ -1,0 +1,1656 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.59.5 b201bb38",
+  "osm3s": {
+    "timestamp_osm_base": "2023-04-18T18:45:30Z",
+    "timestamp_areas_base": "2023-04-18T13:43:39Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 292624060,
+      "lat": 51.23922,
+      "lon": 22.50426,
+      "tags": {
+        "addr:city": "Lublin",
+        "addr:housenumber": "100",
+        "addr:postcode": "20-718",
+        "addr:street": "Aleja Kraśnicka",
+        "amenity": "hospital",
+        "name": "Wojewódzki Szpital Specjalistyczny im. Stefana Wyszyńskiego",
+        "phone": "+48 81 537-41-71",
+        "website": "https://www.szpital.lublin.pl/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 722452812,
+      "lat": 51.22680,
+      "lon": 22.6143,
+      "tags": {
+        "addr:city": "Lublin",
+        "addr:housenumber": "3",
+        "addr:postcode": "20-331",
+        "addr:street": "Grenadierów",
+        "amenity": "hospital",
+        "email": "sekretariat@szpitalmsw.pl",
+        "name": "Samodzielny Publiczny Zakład Opieki Zdrowotnej - Szpital MSWiA w Lublinie",
+        "phone": "81 728 46 26",
+        "website": "https://szpitalmsw.pl/wordpress/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 185391358,
+      "lat": 51.20701,
+      "lon": 22.58829,
+      "tags": {
+        "addr:city": "Lublin",
+        "addr:housenumber": "1",
+        "addr:postcode": "20-439",
+        "addr:street": "Głuska",
+        "amenity": "hospital",
+        "name": "I Klinika Psychiatrii, Psychoterapii i Wczesnej Interwencji SPSK 1"
+      }
+    },
+    {
+      "type": "node",
+      "id": 992635165,
+      "lat": 51.20701,
+      "lon": 22.58829,
+      "tags": {
+        "addr:city": "Lublin",
+        "addr:housenumber": "2",
+        "addr:postcode": "20-442",
+        "addr:street": "Abramowicka",
+        "amenity": "hospital",
+        "name": "Szpital Neuropsychiatryczny im. prof. Mieczysława Kaczyńskiego"
+      }
+    },
+    {
+      "type": "node",
+      "id": 280726068,
+      "lat": 52.2258398,
+      "lon": 21.0024759,
+      "tags": {
+        "addr:city": "Warszawa",
+        "addr:housenumber": "5",
+        "addr:street": "Tytusa Chałubińskiego",
+        "amenity": "hospital",
+        "name": "Szpital Kliniczny Dzieciątka Jezus",
+        "wheelchair": "limited",
+        "wikidata": "Q15989295",
+        "wikipedia": "pl:Szpital Kliniczny Dzieciątka Jezus"
+      }
+    },
+    {
+      "type": "node",
+      "id": 342051367,
+      "lat": 52.2240597,
+      "lon": 20.9977786,
+      "tags": {
+        "addr:street": "Williama Heerleina Lindleya",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Państwowy Szpital Kliniczny Dzieciątka Jezus",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 469499756,
+      "lat": 53.5063767,
+      "lon": 19.7491148,
+      "tags": {
+        "addr:city": "Lubawa",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Niepubliczny Zakład Opieki Długoterminowej pw. \"Szpital św. Jerzego\"",
+        "operator": "NFZ",
+        "patron": "Św. Jerzy"
+      }
+    },
+    {
+      "type": "node",
+      "id": 469985535,
+      "lat": 50.0475227,
+      "lon": 19.9451864,
+      "tags": {
+        "amenity": "hospital",
+        "contact:email": "informacja@bonifratrzy.krakow.pl",
+        "contact:phone": "+48 12 3797377",
+        "contact:website": "https://bonifratrzy.pl/szpital-krakow/",
+        "healthcare": "hospital",
+        "name": "Szpital Zakonu Bonifratrów Świętego Jana Grandego"
+      }
+    },
+    {
+      "type": "node",
+      "id": 476214527,
+      "lat": 52.8758554,
+      "lon": 20.6182937,
+      "tags": {
+        "addr:city": "Ciechanów",
+        "addr:housenumber": "8",
+        "addr:street": "Adama Mickiewicza",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Poliklinika MSWiA",
+        "phone": "+48236731142",
+        "source": "http://ump.waw.pl/ retrieved 12:40:28 08/23/09 (UMP-Ciechanow/src/POI-Ciechanow.szpitale.pnt-converted.txt)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 476214546,
+      "lat": 53.42424,
+      "lon": 19.58645,
+      "tags": {
+        "addr:city": "Nowe Miasto Lubawskie",
+        "addr:housenumber": "10",
+        "addr:street": "Adama Mickiewicza",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Szpital Powiatowy",
+        "phone": "+48564724100",
+        "source": "http://ump.waw.pl/ retrieved 12:40:28 08/23/09 (UMP-Ciechanow/src/POI-Ciechanow.szpitale.pnt-converted.txt)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 476214781,
+      "lat": 53.35986,
+      "lon": 20.43298,
+      "tags": {
+        "addr:city": "Nidzica",
+        "addr:housenumber": "25",
+        "addr:street": "Adama Mickiewicza",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Zespół Opieki Zdrowotnej w Nidzicy",
+        "phone": "+48 89 625 05 35",
+        "source": "http://ump.waw.pl/ retrieved 12:40:28 08/23/09 (UMP-Ciechanow/src/POI-Ciechanow.szpitale.pnt-converted.txt)",
+        "website": "https://zoz.nidzica.pl/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 537215573,
+      "lat": 52.0065483,
+      "lon": 20.6478665,
+      "tags": {
+        "amenity": "hospital",
+        "name": "Wojewódzki Zespół Publicznych Zakładów Psychiarycznej Opieki Zdrowotnej Warszawa. Oddział Rehabilitacyjny Grzmiąca"
+      }
+    },
+    {
+      "type": "node",
+      "id": 581904352,
+      "lat": 49.9691582,
+      "lon": 20.5900905,
+      "tags": {
+        "addr:city": "Brzesko",
+        "addr:housenumber": "68",
+        "addr:street": "Tadeusza Kościuszki",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "name": "Szpital Powiatowy",
+        "note": "szpitale, przychodnie",
+        "opening_hours": "24/7",
+        "phone": "+48146621000",
+        "source": "http://ump.waw.pl/ retrieved 11:18:52 11/17/09 (UMP-Tarnow/src/POI-szpitale.pnt-converted.txt)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 584464023,
+      "lat": 50.0141,
+      "lon": 20.91835,
+      "tags": {
+        "addr:city": "Tarnów",
+        "addr:housenumber": "15",
+        "addr:street": "Eugeniusza Kwiatkowskiego",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Mościckie Centrum Medyczne SPZOZ",
+        "phone": "+48146330071",
+        "source": "http://ump.waw.pl/ retrieved 11:18:52 11/17/09 (UMP-Tarnow/src/POI-szpitale.pnt-converted.txt)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 589773251,
+      "lat": 53.09497,
+      "lon": 17.91089,
+      "tags": {
+        "addr:city": "Białe Błota",
+        "addr:housenumber": "38",
+        "addr:postcode": "86-005",
+        "addr:street": "Barycka",
+        "amenity": "hospital",
+        "email": "bialeblota@ikar.bydgoszcz.pl",
+        "fax": "+48 52 322 99 99",
+        "name": "Centrum Medyczne IKAR",
+        "phone": "+48 52 322 99 99",
+        "source": "http://ump.waw.pl/ retrieved 11:19:07 11/17/09 (UMP-Torun/src/POI-Torun.pnt-converted.txt)",
+        "website": "https://ikar.bydgoszcz.pl/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 683184849,
+      "lat": 51.4707775,
+      "lon": 19.9734216,
+      "tags": {
+        "addr:city": "Tomaszów Mazowiecki",
+        "addr:postcode": "97-200",
+        "amenity": "hospital",
+        "name": "WOPR",
+        "phone": "+48609684999",
+        "source": "http://ump.waw.pl/ retrieved 00:10:48 03/29/10 (UMP-Lodz/src/POI-Lodz.szpitale.pnt-converted.txt)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 740135811,
+      "lat": 49.9831615,
+      "lon": 20.064876,
+      "tags": {
+        "addr:city": "Wieliczka",
+        "addr:housenumber": "20",
+        "addr:street": "Bolesława Szpunara",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "name": "SP Zespół Lecznictwa Otwartego w Wieliczce",
+        "note": "Całodobowa Opieka Medyczna",
+        "opening_hours": "24/7",
+        "phone": "+48 12 279 63 63"
+      }
+    },
+    {
+      "type": "node",
+      "id": 909217355,
+      "lat": 50.3459479,
+      "lon": 18.2099461,
+      "tags": {
+        "amenity": "hospital",
+        "healthcare": "hospital"
+      }
+    },
+    {
+      "type": "node",
+      "id": 945174754,
+      "lat": 53.1855762,
+      "lon": 17.9491743,
+      "tags": {
+        "addr:city": "Bydgoszcz",
+        "addr:housenumber": "9",
+        "addr:postcode": "85-472",
+        "addr:street": "Doktora Stanisława Meysnera",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Kujawsko-Pomorskie Centrum Pulmonologii Oddział Smukała",
+        "operator": "Kujawsko-Pomorskie Centrum Pulmonologii Oddział Smukała",
+        "operator:type": "public"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1066986325,
+      "lat": 52.6533271,
+      "lon": 16.8160978,
+      "tags": {
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "name": "Szpital Powiatowy w Obornikach",
+        "official_name": "Samodzielny Publiczny Zakład Opieki Zdrowotnej w Obornikach",
+        "phone": "+48 61 29 73 500",
+        "website": "http://www.szpital.oborniki.info/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1069820800,
+      "lat": 51.9695654,
+      "lon": 17.504987,
+      "tags": {
+        "addr:city": "Jarocin",
+        "addr:city:simc": "0936776",
+        "addr:housenumber": "1",
+        "addr:postcode": "63-200",
+        "addr:street": "Szpitalna",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Szpital Powiatowy",
+        "source:addr": "EMUiA@iMPA (jarocin.e-mapa.net)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1134870331,
+      "lat": 51.6521762,
+      "lon": 19.3299671,
+      "tags": {
+        "addr:city": "Pabianice",
+        "addr:housenumber": "68",
+        "addr:postcode": "95-200",
+        "addr:street": "Jana Pawła II",
+        "amenity": "hospital",
+        "name": "Pabianickie Centrum Medyczne (szpital powiatowy)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1148177365,
+      "lat": 51.4642939,
+      "lon": 16.9031224,
+      "tags": {
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Szpital Rehabilitacyjny"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1152907248,
+      "lat": 53.1311535,
+      "lon": 18.0269108,
+      "tags": {
+        "addr:city": "Bydgoszcz",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Wojewódzki Szpital Dziecięcy im. J. Brudzińskiego w Bydgoszczy"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1309608378,
+      "lat": 50.2546802,
+      "lon": 19.0269821,
+      "tags": {
+        "addr:city": "Katowice",
+        "addr:housenumber": "25",
+        "addr:postcode": "40-032",
+        "addr:street": "Henryka Dąbrowskiego",
+        "amenity": "hospital",
+        "email": "klinhem@sum.edu.pl",
+        "fax": "+48 32 255-49-85",
+        "healthcare": "hospital",
+        "name": "Oddział Hematologii i Transplantacji Szpiku",
+        "phone": "+48 32 259-12-81",
+        "website": "http://www.spskm.katowice.pl"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1553580331,
+      "lat": 50.8037444,
+      "lon": 17.8854341,
+      "tags": {
+        "amenity": "hospital"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1584054210,
+      "lat": 53.1872391,
+      "lon": 18.6105486,
+      "tags": {
+        "amenity": "hospital",
+        "name": "Szpital Powiatowy Sp. z o.o."
+      }
+    },
+    {
+      "type": "node",
+      "id": 1676762731,
+      "lat": 52.5936635,
+      "lon": 20.7979238,
+      "tags": {
+        "amenity": "hospital",
+        "email": "sekretariat@zoz.nasielsk.pl",
+        "healthcare": "clinic",
+        "name": "Samodzielny Publiczny Zakład Opieki Zdrowotnej w Nasielsku",
+        "phone": "+48 23 691 25 03",
+        "website": "https://zoznasielsk.pl/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1719560638,
+      "lat": 50.0692785,
+      "lon": 21.7002154,
+      "tags": {
+        "amenity": "hospital",
+        "emergency": "yes",
+        "name": "Szpital Powiatowy w Sędziszowie Małopolskim",
+        "name:uk": "Районна Лікарня в Сендзішове Маопольским"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1724515583,
+      "lat": 52.3210322,
+      "lon": 21.1047143,
+      "tags": {
+        "amenity": "hospital",
+        "emergency": "no",
+        "healthcare": "hospital",
+        "name": "Niepubliczny Zakład Opieki Zdrowotnej Esculap Sp. z o.o."
+      }
+    },
+    {
+      "type": "node",
+      "id": 1794673216,
+      "lat": 49.947309,
+      "lon": 18.5720605,
+      "tags": {
+        "addr:city": "Jastrzębie-Zdrój",
+        "addr:housenumber": "14",
+        "addr:street": "Tadeusza Kościuszki",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Wojewódzki Szpital Rehabilitacyjny dla Dzieci"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1815416560,
+      "lat": 51.4668255,
+      "lon": 21.4340924,
+      "tags": {
+        "addr:city": "Pionki",
+        "addr:housenumber": "1",
+        "addr:postcode": "26-670",
+        "addr:street": "Harcerska",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Szpital Miejski w Pionkach - Oddział chorób wewnętrznych i rehabilitacji",
+        "operator": "Samodzielny Publiczny Zespół Zakładów Opieki Zdrowotnej w Pionkach",
+        "website": "http://www.spzzozpionki.pl/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1822002811,
+      "lat": 52.067365,
+      "lon": 20.4421956,
+      "tags": {
+        "amenity": "hospital",
+        "emergency": "no",
+        "healthcare": "hospital",
+        "name": "Klinika Life-Med Bis"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1851243597,
+      "lat": 54.3094508,
+      "lon": 22.3062468,
+      "tags": {
+        "addr:city": "Gołdap",
+        "addr:housenumber": "9",
+        "addr:postcode": "19-500",
+        "addr:street": "Słoneczna",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "name": "Szpital"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1871300900,
+      "lat": 49.7364285,
+      "lon": 19.604941,
+      "tags": {
+        "addr:city": "Sucha Beskidzka",
+        "addr:housenumber": "22",
+        "addr:postcode": "34-200",
+        "addr:street": "Szpitalna",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "name": "Szpital Rejonowy im. dr Jana Gawlika",
+        "opening_hours": "24/7",
+        "phone": "+48 33 872 31 00",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1875329532,
+      "lat": 49.7160365,
+      "lon": 20.4136574,
+      "tags": {
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "name": "Szpital Powiatowy"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1925798109,
+      "lat": 50.2671962,
+      "lon": 19.0084927,
+      "tags": {
+        "addr:city": "Katowice",
+        "addr:housenumber": "1",
+        "addr:postcode": "40-851",
+        "addr:street": "Żelazna",
+        "amenity": "hospital",
+        "email": "info@klinika2000.pl",
+        "healthcare": "hospital",
+        "name": "Klinika 2000",
+        "phone": "+48 32 359-09-99",
+        "website": "http://www.klinika2000.pl"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1937520114,
+      "lat": 50.0649728,
+      "lon": 19.9564727,
+      "tags": {
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "level": "0",
+        "name": "Centrum Urazowe Medycyny Ratunkowej i Katastrof"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1942974189,
+      "lat": 50.1701247,
+      "lon": 18.9084745,
+      "tags": {
+        "addr:city": "Mikołów",
+        "addr:housenumber": "27",
+        "addr:postcode": "43-190",
+        "addr:street": "Stefana Okrzei",
+        "amenity": "hospital",
+        "email": "szpital@boromeuszki.org.pl",
+        "name": "Szpital św. Józefa w Mikołowie",
+        "phone": "+48322265977",
+        "website": "http://www.szpital.boromeuszki.org.pl"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1998621352,
+      "lat": 49.8031788,
+      "lon": 20.4206871,
+      "tags": {
+        "amenity": "hospital",
+        "emergency": "yes",
+        "name": "Centrum medyczne w Żegocinie"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2018451570,
+      "lat": 54.7212264,
+      "lon": 18.4140658,
+      "tags": {
+        "amenity": "hospital",
+        "emergency": "no",
+        "name": "Szpital Pucki",
+        "official_name": "Samodzielny Publiczny Zakład Opieki Zdrowotnej Szpital im. Franciszka Żaczka",
+        "phone": "58 690 43 00",
+        "website": "https://www.szpitalpucki.pl"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2179899852,
+      "lat": 52.1424549,
+      "lon": 21.0524087,
+      "tags": {
+        "amenity": "hospital",
+        "email": "info@szpitalmazovia.pl",
+        "emergency": "no",
+        "name": "NZOZ Szpital Mazovia",
+        "phone": "+48 22 120 20 60",
+        "website": "https://szpitalmazovia.pl/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2235663126,
+      "lat": 50.6489763,
+      "lon": 20.3022442,
+      "tags": {
+        "amenity": "hospital",
+        "name": "NZOZ Szpital Specjalistyczny im. W. Biegańskiego w Jędrzejowie"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2290143642,
+      "lat": 53.7272077,
+      "lon": 18.9208011,
+      "tags": {
+        "addr:city": "Kwidzyn",
+        "addr:housenumber": "31",
+        "addr:postcode": "82-500",
+        "addr:street": "Generała Józefa Hallera",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "name": "Szpital w Kwidzynie",
+        "operator": "NZOZ Zdrowie Sp. z o.o."
+      }
+    },
+    {
+      "type": "node",
+      "id": 2298767077,
+      "lat": 50.751438,
+      "lon": 22.8253314,
+      "tags": {
+        "addr:housenumber": "4",
+        "addr:postcode": "22-463",
+        "addr:street": "Klasztorna",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Samodzielny Publiczny Wojewódzki Szpital Psychiatryczny",
+        "name:uk": "Незалежна Державна Обласна Психіатрична Лікарня",
+        "phone": "+48846818020"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2359319935,
+      "lat": 51.26036,
+      "lon": 22.5610326,
+      "tags": {
+        "addr:city": "Lublin",
+        "addr:housenumber": "6",
+        "addr:postcode": "20-097",
+        "addr:street": "Profesora Antoniego Gębali",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Uniwersytecki Szpital Dziecięcy",
+        "name:uk": "Університетська дитяча лікарня"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2360485546,
+      "lat": 50.082703,
+      "lon": 20.0036981,
+      "tags": {
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Prywatna Przychodnia Ortopedyczna"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2363254827,
+      "lat": 51.2562523,
+      "lon": 22.5671209,
+      "tags": {
+        "amenity": "hospital",
+        "name": "Samodzielny Publiczny Szpital Wojewódzki im. Jana Bożego w Lublinie",
+        "name:uk": "Обласна Лікарня ім. Яна Божего",
+        "website": "https://www.janbozy.pl"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2367791494,
+      "lat": 53.4586649,
+      "lon": 17.5241161,
+      "tags": {
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Forrest Ośrodek Leczenia Uzależnień"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2391433088,
+      "lat": 52.5995069,
+      "lon": 15.8898156,
+      "tags": {
+        "amenity": "hospital",
+        "email": "spzozmiedzychod@spzoz-miedzychod.com.pl",
+        "healthcare": "hospital",
+        "name": "Szpital Powiatowy",
+        "official_name": "Samodzielny Publiczny Zakład Opieki Zdrowotnej w Międzychodzie",
+        "phone": "+48 95 748 20 11",
+        "website": "http://www.spzoz-miedzychod.com.pl/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2410102175,
+      "lat": 51.2508464,
+      "lon": 22.5636325,
+      "tags": {
+        "addr:city": "Lublin",
+        "addr:housenumber": "16",
+        "addr:postcode": "20-081",
+        "addr:street": "Stanisława Staszica",
+        "amenity": "hospital",
+        "email": "sekretariat@spsk1.lublin.pl",
+        "healthcare": "hospital",
+        "name": "Samodzielny Publiczny Szpital Kliniczny nr 1 w Lublinie",
+        "name:uk": "Самостійна державна клінічна лікарня No1",
+        "phone": "81 532 50 41",
+        "website": "https://www.spsk1.lublin.pl"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2495022112,
+      "lat": 53.039668,
+      "lon": 16.4631544,
+      "tags": {
+        "addr:city": "Trzcianka",
+        "addr:city:simc": "0967162",
+        "addr:housenumber": "9",
+        "addr:postcode": "64-980",
+        "addr:street": "Generała Władysława Sikorskiego",
+        "amenity": "hospital",
+        "name": "Szpital Powiatowy im. Jana Pawła II w Trzciance",
+        "phone": "+483523209",
+        "source:addr": "EMUIA (emuia.gugik.gov.pl)",
+        "website": "https://szpital-trzcianka.pl/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2496010365,
+      "lat": 50.4382603,
+      "lon": 18.8631651,
+      "tags": {
+        "addr:housenumber": "22",
+        "addr:street": "Bytomska",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Szpital zakonu oo. Kamilianów",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2613159380,
+      "lat": 53.1400745,
+      "lon": 17.5935129,
+      "tags": {
+        "addr:city": "Nakło nad Notecią",
+        "addr:housenumber": "7",
+        "addr:postcode": "89-100",
+        "addr:street": "Aleja Adama Mickiewicza",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "NZOZ Nowy Szpital w Nakle i Szubinie",
+        "phone": "52 385 21 94"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2915692759,
+      "lat": 53.1494205,
+      "lon": 17.2720125,
+      "tags": {
+        "amenity": "hospital",
+        "email": "szpitalwyrzysk@wp.pl",
+        "name": "Szpital Powiatowy w Wyrzysku",
+        "phone": "+48 67 286 26 22; +48 67 286 22 41; +48 67 286 22 42",
+        "website": "http://szpitalwyrzysk.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2959044175,
+      "lat": 50.8092025,
+      "lon": 15.8385258,
+      "tags": {
+        "amenity": "hospital",
+        "name": "Szpital Bukowiec",
+        "website": "https://www.emc-sa.pl/nasze-placowki/kowary-szpital-bukowiec/oddzialy"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2959096221,
+      "lat": 50.8112291,
+      "lon": 15.8428246,
+      "tags": {
+        "amenity": "hospital",
+        "name": "Szpital Wysoka Łąka"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2968637822,
+      "lat": 50.4482991,
+      "lon": 18.8517882,
+      "tags": {
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Szpital powiatowy nr 1"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3070615729,
+      "lat": 50.0634294,
+      "lon": 19.9504511,
+      "tags": {
+        "addr:city": "Kraków",
+        "addr:housenumber": "2",
+        "addr:postcode": "31-503",
+        "addr:street": "Strzelecka",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "healthcare:speciality": "specialist_pediatrician",
+        "name": "Wojewódzki Specjalistyczny Szpital Dziecięcy im. św. Ludwika",
+        "note": "być może powszechnie używana nazwa jest krótsza, wtedy tag name jest do poprawki",
+        "official_name": "Wojewódzki Specjalistyczny Szpital Dziecięcy im. św. Ludwika w Krakowie"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3168649108,
+      "lat": 50.2728429,
+      "lon": 19.4672602,
+      "tags": {
+        "amenity": "hospital",
+        "emergency": "no",
+        "name": "Centrum Medyczne \"Skałka\""
+      }
+    },
+    {
+      "type": "node",
+      "id": 3384056549,
+      "lat": 51.146627,
+      "lon": 19.0005321,
+      "tags": {
+        "addr:city": "Pajęczno",
+        "addr:city:simc": "0932330",
+        "addr:housenumber": "13/15",
+        "addr:postcode": "98-330",
+        "addr:street": "1 Maja",
+        "addr:street:sym_ul": "11926",
+        "amenity": "hospital",
+        "name": "Szpital Rejonowy w Pajęcznie",
+        "source:addr": "geoportal.gov.pl"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3559448622,
+      "lat": 52.2408885,
+      "lon": 20.9801053,
+      "tags": {
+        "addr:city": "Warszawa",
+        "addr:housenumber": "8",
+        "addr:street": "Kacza",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Ibis",
+        "official_name": "Niepubliczny Zakład Opieki Zdrowotnej IBIS / SENSOR CLINIQ",
+        "website": "https://szpitalibis.pl/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3660359384,
+      "lat": 50.3509734,
+      "lon": 17.8700954,
+      "tags": {
+        "amenity": "hospital",
+        "name": "Szpital Powiatowy w Głogówku"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3711902385,
+      "lat": 51.1601147,
+      "lon": 21.6578849,
+      "tags": {
+        "addr:city": "Lipsko",
+        "addr:housenumber": "2",
+        "addr:postcode": "27-300",
+        "addr:street": "Jędrzeja Śniadeckiego",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "name": "Samodzielny Publiczny Zespół Zakładów Opieki Zdrowotnej",
+        "operator": "SPZZOZ"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3814287371,
+      "lat": 51.0713931,
+      "lon": 17.032975,
+      "tags": {
+        "amenity": "hospital",
+        "description": "niepubliczny szpital ginekologiczno-położniczy",
+        "name": "Szpital Medfemina",
+        "phone": "+48 71 333 000 3",
+        "start_date": "2015",
+        "website": "https://szpital.medfemina.pl"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3816629788,
+      "lat": 49.9794623,
+      "lon": 19.2365209,
+      "tags": {
+        "amenity": "hospital",
+        "name": "Powiatowy Zakład Opiekuńczo-Leczniczy"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3888292962,
+      "lat": 50.781434,
+      "lon": 20.4646915,
+      "tags": {
+        "addr:country": "PL",
+        "addr:housenumber": "45",
+        "addr:place": "Podzamcze",
+        "addr:postcode": "26-060",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Gameta"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3933836459,
+      "lat": 53.0203362,
+      "lon": 18.6103781,
+      "tags": {
+        "amenity": "hospital",
+        "emergency": "yes",
+        "name": "Wojewódzki Szpital Zespolony"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3933836460,
+      "lat": 53.0203119,
+      "lon": 18.6096651,
+      "tags": {
+        "addr:city": "Toruń",
+        "addr:housenumber": "47",
+        "addr:postcode": "87-100",
+        "addr:street": "Grudziądzka",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "name": "Wojewódzki Szpital Zespolony"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4070479995,
+      "lat": 51.3595177,
+      "lon": 20.6303233,
+      "tags": {
+        "amenity": "hospital",
+        "email": "sekretariat@spzzozprzysucha.pl",
+        "name": "Samodzielny Publiczny Zespół Zakładów Opieki Zdrowotnej - Szpital Powiatowy w Przysusze",
+        "phone": "48 383 35 05",
+        "website": "https://www.spzzozprzysucha.pl"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4208519691,
+      "lat": 50.2117902,
+      "lon": 19.0008886,
+      "tags": {
+        "addr:postcode": "40-635",
+        "addr:street": "Ziołowa",
+        "amenity": "hospital",
+        "name": "Górnośląski Ośrodek Kardiologii",
+        "name:en": "Upper Silesian Cardiology Center"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4222375410,
+      "lat": 50.2108482,
+      "lon": 18.9983175,
+      "tags": {
+        "addr:postcode": "40-653",
+        "amenity": "hospital",
+        "name": "Specjalistyczny Szpital Wieloprofilowy",
+        "name:en": "Upper Silesian Medical Center of the Medical University of Silesia in Katowice",
+        "name:pl": "Górnośląskie Centrum Medyczne im. prof. Leszka Gieca Slaskiego Uniwersytetu Medycznego w Katowicach-Ochojcu",
+        "opening_hours": "24/7",
+        "phone": "+48 32 3598000",
+        "website": "https://www.gcm.pl"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4291813749,
+      "lat": 50.4555829,
+      "lon": 16.6604755,
+      "tags": {
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Szpital Powiatowy",
+        "operator": "Zespół Opieki Zdrowotnej w Kłodzku",
+        "website": "https://www.zoz.klodzko.pl/",
+        "wikidata": "Q9352131",
+        "wikipedia": "pl:Szpital Powiatowy w Kłodzku"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4327796202,
+      "lat": 50.7682286,
+      "lon": 18.9706584,
+      "tags": {
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Szpital im. Rudolfa Weigla",
+        "operator": "Scanmed S.A."
+      }
+    },
+    {
+      "type": "node",
+      "id": 4343908285,
+      "lat": 51.7039456,
+      "lon": 22.7271091,
+      "tags": {
+        "amenity": "hospital",
+        "name": "Wojewódzki Szpital dla Nerwowo i Psychicznie Chorych w Suchowoli",
+        "name:uk": "Обласна Лікарня для Нервово і Душевнохворих в Суховолові"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4346273202,
+      "lat": 50.4500369,
+      "lon": 20.7177577,
+      "tags": {
+        "alt_name": "SOR",
+        "amenity": "hospital",
+        "name": "Szpitalny Oddział Ratunkowy"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4362637512,
+      "lat": 52.0595254,
+      "lon": 19.1876761,
+      "tags": {
+        "addr:city": "Łęczyca",
+        "addr:housenumber": "6",
+        "addr:postcode": "99-100",
+        "addr:street": "Zachodnia",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "name": "Szpital Powiatowy im. św. Faustyny Kowalskiej",
+        "phone": "24 388 26 01",
+        "website": "zozleczyca.pl",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4770720423,
+      "lat": 53.411551,
+      "lon": 21.9210098,
+      "tags": {
+        "amenity": "hospital",
+        "name": "Szpital Ogólny w Kolnie",
+        "name:en": "Hospital"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4894966924,
+      "lat": 49.7928307,
+      "lon": 18.9468135,
+      "tags": {
+        "addr:city": "Jaworze",
+        "addr:postcode": "43-384",
+        "amenity": "hospital",
+        "name": "Beskidzki Zespół Leczniczo-Rehabilitacyjny"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4894985821,
+      "lat": 49.7897697,
+      "lon": 18.9536427,
+      "tags": {
+        "addr:housenumber": "142",
+        "addr:postcode": "43-384",
+        "addr:street": "Wapienicka",
+        "amenity": "hospital",
+        "internet_access": "wlan",
+        "name": "Beskidzki Zespół Leczniczo-Rehabilitacyjny o. Dzieci i Młodzieży",
+        "website": "http://rehabilitacja-jaworze.com.pl"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5018117860,
+      "lat": 50.7102612,
+      "lon": 16.5483679,
+      "tags": {
+        "addr:city": "Pieszyce",
+        "addr:housenumber": "11",
+        "addr:postcode": "58-250",
+        "addr:street": "Rościszów",
+        "amenity": "hospital",
+        "name": "Specjalistyczny Szpital Chorób Płuc",
+        "operator": "Sanatoria Dolnośląskie sp. z o.o.",
+        "website": "https://sanatoria-dolnoslaskie.pl/rosciszow/o-szpitalu"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5074612337,
+      "lat": 52.4782202,
+      "lon": 16.7837244,
+      "tags": {
+        "addr:city": "Poznań",
+        "addr:housenumber": "1",
+        "addr:postcode": "60-480",
+        "addr:street": "Sanatoryjna",
+        "amenity": "hospital",
+        "name": "NFZ Ośrodek rehabilitacyjny dla dzieci - Kiekrz",
+        "operator": "Narodowy Fundusz Zdrowia",
+        "phone": "+4861 848 26 61"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5507540780,
+      "lat": 50.9062042,
+      "lon": 17.8355057,
+      "tags": {
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Stobrawskie Centrum Medyczne, Szpital w Pokoju"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5978030284,
+      "lat": 51.6534909,
+      "lon": 17.8268698,
+      "tags": {
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "SOR Dziecięcy"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5978043937,
+      "lat": 51.6534893,
+      "lon": 17.8260987,
+      "tags": {
+        "addr:city": "Ostrów Wielkopolski",
+        "addr:housenumber": "20-22",
+        "addr:postcode": "63-400",
+        "addr:street": "Bolesława Limanowskiego",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Wielkopolskie Centrum Leczenia Oparzeń"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5978045161,
+      "lat": 51.6537389,
+      "lon": 17.8248675,
+      "tags": {
+        "addr:city": "Ostrów Wielkopolski",
+        "addr:housenumber": "20-22",
+        "addr:postcode": "63-400",
+        "addr:street": "Bolesława Limanowskiego",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Izba Przyjęć Oddziału Ginekologiczno-Położniczego"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6128570263,
+      "lat": 50.3050305,
+      "lon": 19.0335812,
+      "tags": {
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Szpital Miejski w Siemianowicach Śl."
+      }
+    },
+    {
+      "type": "node",
+      "id": 6184571368,
+      "lat": 53.1034973,
+      "lon": 18.050912,
+      "tags": {
+        "addr:city": "Bydgoszcz",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Szpital Św. Łukasza"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6192420717,
+      "lat": 51.4084513,
+      "lon": 16.194895,
+      "tags": {
+        "addr:housenumber": "66",
+        "addr:postcode": "59-300",
+        "addr:street": "Marii Skłodowskiej-Curie",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Miedziowe Centrum Zdrowia SA Szpital"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6322820040,
+      "lat": 51.1615644,
+      "lon": 14.9945085,
+      "tags": {
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Zakład Opiekuńczo-Leczniczy"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6415934738,
+      "lat": 51.7751712,
+      "lon": 19.5051167,
+      "tags": {
+        "addr:city": "Łódź",
+        "addr:housenumber": "247/249",
+        "addr:street": "Pomorska",
+        "alt_name": "Centralny Szpital Kliniczny Uniwersytetu Medycznego",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Centrum Kliniczno-Dydaktyczne Uniwersytetu Medycznego",
+        "short_name": "CKD"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6457513791,
+      "lat": 49.7285118,
+      "lon": 19.6935206,
+      "tags": {
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Szpital Specjalistyczny im. Ludwika Rydygiera w Krakowie sp. z o.o. Zakład Opieki Długoterminowej"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6520699929,
+      "lat": 51.7955178,
+      "lon": 19.4485401,
+      "tags": {
+        "amenity": "hospital",
+        "healthcare:speciality": "ophthalmology",
+        "name": "Contact Med",
+        "website": "http://contact-med.com.pl"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6685009464,
+      "lat": 52.2579919,
+      "lon": 20.9593947,
+      "tags": {
+        "addr:city": "Warszawa",
+        "addr:housenumber": "6",
+        "addr:postcode": "01-748",
+        "addr:street": "Szamocka",
+        "amenity": "hospital",
+        "email": "rejestracja.szamocka@magodent.pl",
+        "healthcare": "hospital",
+        "name": "Luxmed Onkologia",
+        "phone": "+48 22 469 83 30",
+        "website": "http://magodent.pl/nasze-placowki/szpital-elblaska-magodent-grupa-lux-med/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6760315882,
+      "lat": 52.4692407,
+      "lon": 19.4972537,
+      "tags": {
+        "addr:housenumber": "5",
+        "addr:street": "Kruk",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Szpital Gorzewo-Kruk"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6798205322,
+      "lat": 54.2114818,
+      "lon": 19.1195648,
+      "tags": {
+        "addr:city": "Nowy Dwór Gdański",
+        "addr:housenumber": "12",
+        "addr:street": "Dworcowa",
+        "amenity": "hospital",
+        "name": "Szpital w Nowym Dworze Gdańskim",
+        "operator": "Powiatowe Centrum Zdrowia w Malborku",
+        "phone": "+48 55 247 24 11",
+        "website": "http://pcz.net.pl/NDG/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7025124451,
+      "lat": 54.3470145,
+      "lon": 18.5095607,
+      "tags": {
+        "addr:city": "Gdańsk",
+        "addr:housenumber": "15C",
+        "addr:postcode": "80-178",
+        "addr:street": "Otomińska",
+        "amenity": "hospital",
+        "emergency": "no",
+        "healthcare": "hospital",
+        "healthcare:speciality": "orthopaedics;surgery;ophthalmology",
+        "name": "Szpital Jednodniowy im. dr. Michała Pawlaka",
+        "operator": "Nadmorskie Centrum Medyczne Sp. z o.o.",
+        "operator:type": "private",
+        "phone": "+48 58 763 94 94",
+        "website": "https://ncm.com.pl/szpital"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7362137467,
+      "lat": 50.2546309,
+      "lon": 19.0265496,
+      "tags": {
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Oddział Chorób Wewnętrznych i Onkologii Klinicznej"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8017371402,
+      "lat": 54.1148997,
+      "lon": 23.3514265,
+      "tags": {
+        "amenity": "hospital",
+        "email": "sekretariat@szpital.sejny.pl",
+        "name": "Szpital Powiatowy im. Doktora Edwarda Rittlera w Sejnach",
+        "phone": "+48 87 516 20 09",
+        "website": "https://www.szpital.sejny.pl/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8534286122,
+      "lat": 51.949309,
+      "lon": 15.7155629,
+      "tags": {
+        "addr:city": "Zabór",
+        "addr:housenumber": "1",
+        "addr:postcode": "66-003",
+        "addr:street": "Zamkowa",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Centrum Leczenia Dzieci i Młodzieży w Zaborze"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8761521970,
+      "lat": 52.3043671,
+      "lon": 20.9897487,
+      "tags": {
+        "addr:city": "Warszawa",
+        "addr:housenumber": "1A",
+        "addr:postcode": "03-193",
+        "addr:street": "Jana Kowalczyka",
+        "amenity": "hospital",
+        "name": "NZOZ Konwaliowa",
+        "official_name": "Niepubliczny Zakład Opieki Zdrowotnej \"Konwaliowa\"",
+        "phone": "+48 22 3532266",
+        "website": "http://www.konwaliowa.pl/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8839662717,
+      "lat": 50.0906987,
+      "lon": 19.933267,
+      "tags": {
+        "amenity": "hospital",
+        "name": "Oddział Chorób Płuc z Pododdziałem Onkologicznym",
+        "opening_hours": "24/7"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8954684577,
+      "lat": 52.2004035,
+      "lon": 21.026026,
+      "tags": {
+        "addr:city": "Warszawa",
+        "addr:housenumber": "42",
+        "addr:postcode": "00-774",
+        "addr:street": "Dolna",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Ośrodek Psychiatryczny",
+        "official_name": "Samodzielny Wojewódzki Zespół Publicznych Zakładów Psychiatrycznej Opieki Zdrowotnej w Warszawie",
+        "website": "http://www.szpitalnowowiejski.pl"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9073275889,
+      "lat": 50.0625438,
+      "lon": 19.8880046,
+      "tags": {
+        "addr:city": "Kraków",
+        "addr:housenumber": "39",
+        "addr:postcode": "30-214",
+        "addr:street": "Józefa Korzeniowskiego",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Klinika Genesis",
+        "website": "https://klinikagenesis.pl/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9198375495,
+      "lat": 53.3549092,
+      "lon": 17.0441326,
+      "tags": {
+        "amenity": "hospital",
+        "name": "Szpital Powiatowy im. Alfreda Sokołowskiego w Złotowie"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9200980241,
+      "lat": 50.4469738,
+      "lon": 18.8512907,
+      "tags": {
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Wielospecjalistyczny Szpital Powiatowy S.A. im. Bronisława Hagera w Tarnowskich Górach - poradnie specjalistyczne"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9355910585,
+      "lat": 50.3040174,
+      "lon": 19.0310782,
+      "tags": {
+        "addr:city": "Siemianowice Śląskie",
+        "addr:housenumber": "6",
+        "addr:postcode": "41-100",
+        "addr:street": "Szpitalna",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Nefrolux"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9558849442,
+      "lat": 53.165639,
+      "lon": 15.4123256,
+      "tags": {
+        "amenity": "hospital",
+        "contact:facebook": "https://www.facebook.com/SPZOZChoszczno/",
+        "email": "sekretariat@spzozchoszczno.pl",
+        "emergency": "yes",
+        "fax": "+48 95 765 24 10",
+        "healthcare": "hospital",
+        "name": "Samodzielny Publiczny Zakład Opieki Zdrowotnej w Choszcznie",
+        "phone": "+48 95 765 24 38; +48 95 765 25 24",
+        "website": "https://www.spzozchoszczno.pl"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9570482022,
+      "lat": 52.2807832,
+      "lon": 21.0122657,
+      "tags": {
+        "addr:city": "Warszawa",
+        "addr:housenumber": "3",
+        "addr:postcode": "03-305",
+        "addr:street": "Władysława Szernera",
+        "amenity": "hospital",
+        "name": "Lux Med",
+        "website": "http://www.luxmed.pl"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9582954780,
+      "lat": 53.7938452,
+      "lon": 22.3389376,
+      "tags": {
+        "addr:city": "Ełk",
+        "addr:housenumber": "24",
+        "addr:street": "Baranki",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "name": "Pro-Medica"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9681452217,
+      "lat": 52.0497978,
+      "lon": 16.3464546,
+      "tags": {
+        "addr:housenumber": "80",
+        "addr:place": "Siekowo",
+        "addr:postcode": "64-234",
+        "amenity": "hospital",
+        "email": "wcn@wcn-koscian.pl",
+        "name": "Oddział Psychiatryczny w Siekowie",
+        "name:en": "Open Psychiatric Ward in Siekowo",
+        "opening_hours": "24/7",
+        "phone": "+48655496120",
+        "website": "https://wcn-koscian.pl"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9681505017,
+      "lat": 52.076702,
+      "lon": 16.6258305,
+      "tags": {
+        "addr:postcode": "64-000",
+        "amenity": "hospital",
+        "name": "Oddział Leczenia Uzależnień 1, WCN w Kościanie",
+        "name:en": "Rehabilitation center for alcohol addiction",
+        "opening_hours": "24/7"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9776669669,
+      "lat": 50.15164,
+      "lon": 18.7732807,
+      "tags": {
+        "addr:city": "Orzesze",
+        "addr:housenumber": "20",
+        "addr:postcode": "43-180",
+        "addr:street": "Gliwicka",
+        "amenity": "hospital",
+        "dispensing": "yes",
+        "healthcare": "hospital",
+        "name": "Szpital Chorób Płuc w Orzeszu",
+        "ref:csioz": "1038485"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9986110975,
+      "lat": 50.0248307,
+      "lon": 22.0062449,
+      "tags": {
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Szpital Asklepios",
+        "name:uk": "Лікаря Асклепиос"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10297241924,
+      "lat": 51.1276398,
+      "lon": 23.4700304,
+      "tags": {
+        "addr:city": "Chełm",
+        "addr:housenumber": "51",
+        "addr:postcode": "22-100",
+        "addr:street": "Lwowska",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "doctor",
+        "healthcare:speciality": "general;vaccination",
+        "name": "NZOZ \"Prof-Med\" Sp. z o.o.",
+        "phone": "82 5656297"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10744131174,
+      "lat": 50.9703948,
+      "lon": 18.7287068,
+      "tags": {
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "name": "Szpital Rejonowy im. dr Anki w Krzepicach"
+      }
+    }
+  ]
+}
