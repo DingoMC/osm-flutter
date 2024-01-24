@@ -261,6 +261,13 @@ class _MainExampleState extends State<MainExample> with OSMMixinObserver {
               ),
             )),
           ),
+          const Positioned.fill(
+              child: Align(
+                  alignment: Alignment.center,
+                  child: Icon(
+                    Icons.add,
+                    size: 24,
+                  )))
         ],
       ),
     );

@@ -29,7 +29,7 @@ extension GeoTypeExtension on GeoTypes {
       case GeoTypes.clinic:
         return CRoot.blue.color();
       case GeoTypes.pharmacy:
-        return CRoot.green.color(brightness: 0.33);
+        return CRoot.red.color(brightness: 0.4);
       default:
         return CRoot.gray.color(brightness: 0.67);
     }
@@ -76,9 +76,7 @@ extension GeoTypeExtension on GeoTypes {
         );
       case GeoTypes.pharmacy:
         return Icon(Icons.local_pharmacy_outlined,
-            color: CRoot.green.color(brightness: 0.33),
-            size: 44,
-            opticalSize: 22);
+            color: CRoot.red.color(brightness: 0.4), size: 44, opticalSize: 22);
       default:
         return Icon(Icons.help_outline,
             color: CRoot.gray.color(brightness: 0.67),
